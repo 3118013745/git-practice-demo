@@ -1,1 +1,2 @@
 今天是2026年10月12日，我在学习git的git status,git add+文件名
+现在是21：11分我学习git pull从把内容从GitHub传到本地
