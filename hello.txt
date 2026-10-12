@@ -1,0 +1,1 @@
+今天是2026年10月12日，我在学习git的git status,git add+文件名
